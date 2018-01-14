@@ -1,3 +1,8 @@
 first stylesheet
 Second style
 Manda Fire
+h1 {
+    border: 1px chartreuse solid;
+    text-align: center;
+
+}
